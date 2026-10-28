@@ -1,0 +1,11 @@
+id = "bt-memes"
+name = "Bluetooth Meme Sounds (Native Rust Port)"
+version = "1.0.1"
+kind = "binary"
+lang = "rust"
+entry = "bt-memes"
+priority = "background"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["audio", "bluetooth"]

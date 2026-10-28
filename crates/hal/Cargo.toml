@@ -1,0 +1,13 @@
+[package]
+name = "max-hal"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "max_hal"
+crate-type = ["rlib", "staticlib"]
+
+[dependencies]
+anyhow.workspace = true
+libc.workspace = true
+serde.workspace = true

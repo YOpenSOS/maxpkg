@@ -1,0 +1,11 @@
+id = "pkg-c"
+name = "C99 Native SDK Test Package"
+version = "1.0.0"
+kind = "binary"
+lang = "c"
+entry = "pkg-c"
+priority = "normal"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["ring", "sensors"]

@@ -1,0 +1,11 @@
+id = "pkg-cpp"
+name = "C++17 RAII SDK Test Package"
+version = "1.0.0"
+kind = "binary"
+lang = "cpp"
+entry = "pkg-cpp"
+priority = "normal"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["audio", "remote.uinput"]

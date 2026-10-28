@@ -1,0 +1,11 @@
+id = "pkg-rust"
+name = "Rust Native SDK Test Package"
+version = "1.0.0"
+kind = "binary"
+lang = "rust"
+entry = "pkg-rust"
+priority = "normal"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["canvas", "mic"]

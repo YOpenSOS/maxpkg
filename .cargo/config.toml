@@ -1,0 +1,6 @@
+# Cross-compilation configuration for Yandex Station Max (Android 9 / API 28 / aarch64).
+# Paths to the Android NDK linker and archiver are injected automatically by `scripts/build_all.ps1`
+# via `ANDROID_NDK_HOME` (or an untracked `.env.local` file) so no host paths are stored in Git.
+
+[build]
+target = "aarch64-linux-android"

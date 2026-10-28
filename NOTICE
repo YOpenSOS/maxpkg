@@ -1,0 +1,12 @@
+maxpkg — Native Package Manager, Hardware Arbiter & Multi-Language SDK
+Repository: https://github.com/YOpenSOS/maxpkg
+Copyright 2026 YOpenSOS (https://github.com/YOpenSOS)
+
+This product includes software and hardware abstraction architecture originally
+designed and developed by YOpenSOS.
+
+In accordance with Section 4(d) of the Apache License, Version 2.0, any
+redistribution, fork, derivative work, or package built using this SDK or
+protocol must retain this NOTICE file and include clear attribution to the
+upstream project (https://github.com/YOpenSOS/maxpkg) in its documentation
+or README.

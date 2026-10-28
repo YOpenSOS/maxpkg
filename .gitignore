@@ -1,0 +1,12 @@
+/target/
+/dist/
+/examples/pkg-rust/pkg-rust
+/examples/bt-memes/bt-memes
+/examples/pkg-c/pkg-c
+/examples/pkg-cpp/pkg-cpp
+/examples/pkg-go/pkg-go
+/examples/pkg-zig/pkg-zig
+/examples/pkg-zig/maxhal.zig
+.env.local
+*.o
+*.yap

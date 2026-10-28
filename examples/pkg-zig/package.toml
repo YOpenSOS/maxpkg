@@ -1,0 +1,11 @@
+id = "pkg-zig"
+name = "Zig Native SDK Test Package"
+version = "1.0.0"
+kind = "binary"
+lang = "zig"
+entry = "pkg-zig"
+priority = "normal"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["ring", "input"]

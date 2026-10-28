@@ -1,0 +1,11 @@
+id = "pkg-go"
+name = "Go Native SDK Test Package"
+version = "1.0.0"
+kind = "binary"
+lang = "go"
+entry = "pkg-go"
+priority = "overlay"
+
+[compat]
+models = ["yandexstation_2"]
+features = ["canvas", "bluetooth", "input"]
